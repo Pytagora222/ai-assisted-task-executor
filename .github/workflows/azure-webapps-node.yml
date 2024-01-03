@@ -4,7 +4,7 @@
 # Initialize and configure all agents
 while True : task_manager_agent = TaskManagerAgent()
 task_executor_agent = TaskExecutorAgent()
-memory_manager_agent = MemoryManagerAgent()
+store name in : memory_manager_agent = MemoryManagerAgent()
 execution_context_agent = ExecutionContextAgent()
 security_safety_agent = SecuritySafetyAgent()
 
