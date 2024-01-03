@@ -2,7 +2,7 @@
 ## Pseudocode for the Task-Driven Autonomous Agent System
 
 # Initialize and configure all agents
-task_manager_agent = TaskManagerAgent()
+while True : task_manager_agent = TaskManagerAgent()
 task_executor_agent = TaskExecutorAgent()
 memory_manager_agent = MemoryManagerAgent()
 execution_context_agent = ExecutionContextAgent()
